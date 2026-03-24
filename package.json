@@ -1,0 +1,8 @@
+{
+  "name": "@sahilhasnain/keyboard-spacer",
+  "version": "0.1.0",
+  "type": "module",
+  "bin": {
+    "keyboard-spacer": "./install.mjs"
+  }
+}
